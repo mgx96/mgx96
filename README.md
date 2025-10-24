@@ -2,7 +2,7 @@
 
 ## Hi there 
 
-I'm an aspiring smart contracts developer with a massive passion to create decentralized applications and solutions
+I'm an aspiring smart contract developer driven by a passion for building decentralized applications. I believe the future belongs on-chain and I want to help shape it.
 
 ### Tech Stack
 
@@ -36,3 +36,8 @@ I'm an aspiring smart contracts developer with a massive passion to create decen
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-0A97F5?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### GitHub Stats
+![Malek's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgx96&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgx96&layout=compact&theme=highcontrast)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mgx96&theme=highcontrast)](https://git.io/streak-stats)
