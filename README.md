@@ -41,3 +41,9 @@ I'm an aspiring smart contract developer driven by a passion for building decent
 ![Malek's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgx96&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgx96&layout=compact&theme=highcontrast&langs_count=10)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mgx96&theme=highcontrast)](https://git.io/streak-stats)
+
+### Socials
+
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maleksharabi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malek-sharabi-016862118/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:m.malek1996@hotmail.com)
