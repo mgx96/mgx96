@@ -39,7 +39,7 @@ I'm an aspiring smart contract developer driven by a passion for building decent
 
 ### GitHub Stats
 ![Malek's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgx96&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgx96&layout=compact&theme=radical&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgx96&layout=compact&theme=radical&langs_count=10&hide=html,css,scss,less,hlsl)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mgx96&theme=radical)](https://git.io/streak-stats)
 
 ### Socials
