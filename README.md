@@ -2,7 +2,7 @@
 
 ## Hi there 
 
-I'm an aspiring smart contract developer driven by a passion for building decentralized applications. I believe the future belongs on-chain and I want to help shape it.
+I’m an aspiring smart contract developer passionate about making blockchain easier to use. I want to help bridge the gap between complex systems and everyday people.
 
 ### Tech Stack
 
