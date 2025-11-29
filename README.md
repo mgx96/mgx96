@@ -38,7 +38,7 @@ I’m an aspiring smart contract developer passionate about making blockchain ea
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### GitHub Stats
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mgx96&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-mirror.vercel.app/api?username=mgx96&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgx96&layout=compact&theme=radical&langs_count=10&hide=html,css,scss,less,hlsl)
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=mgx96&theme=radical)](https://git.io/streak-stats)
 
