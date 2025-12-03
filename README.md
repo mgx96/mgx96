@@ -2,7 +2,7 @@
 
 ## Hi there 
 
-I’m an aspiring smart contract developer passionate about making blockchain easier to use. I want to help bridge the gap between complex systems and everyday people.
+I’m an aspiring smart contract developer passionate about making blockchain easier to use
 
 ### Tech Stack
 
