@@ -39,7 +39,7 @@ I’m an aspiring smart contract developer passionate about making blockchain ea
 
 ### GitHub Stats
 ![GitHub stats](https://github-readme-stats-mirror.vercel.app/api?username=mgx96&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgx96&layout=compact&theme=radical&langs_count=10&hide=html,css,scss,less,hlsl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgx96&layout=compact&theme=radical&langs_count=10&hide=HTML,CSS,SCSS,Less,HLSL)
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=mgx96&theme=radical)](https://git.io/streak-stats)
 
 ### Socials
