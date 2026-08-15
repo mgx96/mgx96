@@ -2,7 +2,7 @@
 
 ## Hi there 
 
-I like smart contracts!
+In case you missed it, I like smart contracts!
 
 ### Tech Stack
 
