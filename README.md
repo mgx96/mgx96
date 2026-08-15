@@ -2,7 +2,7 @@
 
 ## Hi there 
 
-I’m an aspiring smart contract developer passionate about making blockchain easier to use
+I like smart contracts!
 
 ### Tech Stack
 
