@@ -5,7 +5,7 @@
 In case you missed it, I like smart contracts!
 
 ### Tech Stack
-
+![Qiskit](https://repository-images.githubusercontent.com/83821669/9207357a-cf9b-45ed-9974-0abc3df14b95)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
